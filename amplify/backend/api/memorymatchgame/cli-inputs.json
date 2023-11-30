@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "memorymatchgame",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authmemorymatchgame4b7c9849"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
